@@ -13,5 +13,4 @@ class Temperature
 
   def celcius
   end
-
 end
